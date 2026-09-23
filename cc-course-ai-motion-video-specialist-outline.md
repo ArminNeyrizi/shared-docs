@@ -44,6 +44,7 @@
 
 ## **4. Adobe After Effects**
 
+- [[cc-course-ai-motion-video-specialist-4-1]]
 - Interface و Project Structure - s
 - Composition - s
 - Layers - s
